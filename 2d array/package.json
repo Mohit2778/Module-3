@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "Math": "^0.0.1-security",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "mohit",
+  "version": "1.0.0",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
